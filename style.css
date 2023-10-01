@@ -149,7 +149,7 @@ left: 766px;
 .a{
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 
 .features_new {
@@ -187,4 +187,9 @@ background:#F3FCF7;
     color: #06C167;
 }
 
+.numbers{
+display: flex;
+align-items: center;
+    justify-content: space-around;
+}
 
